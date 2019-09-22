@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ef5f549-d29f-4f8c-93a3-b3b7b8745977" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Projet_Analysez_les_tests_dune_application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicGithub/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicGithub/Test Results - UserListInstrumentedInit___.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicGithub/Test Results - UserRepositoryTestInit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/p2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/p2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MagicGithub/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MagicGithub/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MagicGithub/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MagicGithub/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MagicGithub/app/src/main/java/com/openclassrooms/magicgithub/api/FakeApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MagicGithub/app/src/main/java/com/openclassrooms/magicgithub/api/FakeApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MagicGithub/app/src/main/java/com/openclassrooms/magicgithub/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/MagicGithub/app/src/main/java/com/openclassrooms/magicgithub/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MagicGithub/app/src/test/java/com/openclassrooms/magicgithub/UserRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MagicGithub/app/src/test/java/com/openclassrooms/magicgithub/UserRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MagicGithub/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/MagicGithub/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MagicGithub/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MagicGithub/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Projet_Analysez_les_tests_dune_application" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Projet_Analysez_les_tests_dune_application" type="e9137016:NonAndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Projet_Analysez_les_tests_dune_application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projet_Analysez_les_tests_dune_application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Projet_Analysez_les_tests_dune_application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projet_Analysez_les_tests_dune_application" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Projet_Analysez_les_tests_dune_application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projet_Analysez_les_tests_dune_application" type="462c0819:PsiDirectoryNode" />
+              <item name="MagicGithub" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../android_htdocs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MagicGithub" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ef5f549-d29f-4f8c-93a3-b3b7b8745977" name="Default Changelist" comment="" />
+      <created>1568309363963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568309363963</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.32995737" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Find" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32936078" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info active="true" anchor="bottom" id="TODO" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Android Profiler" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -25,6 +25,7 @@ import static org.hamcrest.collection.IsIterableContainingInAnyOrder.containsInA
 public class UserRepositoryTest {
     
     private UserRepository userRepository;
+
     
     @Before
     public void setup() {
@@ -32,6 +33,7 @@ public class UserRepositoryTest {
     }
     
     @Test
+    // on compare la liste reçut avec la liste qu'on devrait recevoir
     public void getUsersWithSuccess() {
         List<User> usersActual = userRepository.getUsers();
         List<User> usersExpected = FAKE_USERS;
@@ -43,6 +45,7 @@ public class UserRepositoryTest {
         userRepository.getUsers().clear();
         userRepository.generateRandomUser();
         User user = userRepository.getUsers().get(0);
+        //System.out.println(user);
         assertEquals(1, userRepository.getUsers().size());
         assertTrue(FAKE_USERS_RANDOM.stream().map(User::getAvatarUrl).collect(Collectors.toList()).contains(user.getAvatarUrl()));
         assertTrue(FAKE_USERS_RANDOM.stream().map(User::getId).collect(Collectors.toList()).contains(user.getId()));
